@@ -36,7 +36,8 @@ while True:
                 'd4': data.val_uv,
                 'd5': data.val_heat,
                 'd6': data.rssi,
-                'd7': data.val_pressure
+                'd7': data.val_pressure,
+                'd8': data.val_di
                 }
             )
 
